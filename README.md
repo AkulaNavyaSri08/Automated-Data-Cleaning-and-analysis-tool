@@ -39,6 +39,6 @@ Author
 Akula Navya Sri
 
 linkedin url:https://www.linkedin.com/in/akula-navya-sri-74537434b/
-
+Project Output url:http://localhost:8501/
 
 > Python-based Automated Data Cleaning Tool for handling missing values, duplicates, data type corrections, outlier detection, and data quality reporting. 🚀
